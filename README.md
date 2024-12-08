@@ -1,1 +1,3 @@
-# data2060
+# Final Project for Data2060
+
+## CART Classifier
