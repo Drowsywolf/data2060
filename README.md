@@ -1,3 +1,7 @@
 # Final Project for Data2060
 
-## CART Classifier
+Python version: 3.12.5
+
+Package versions: see `environment.yml`
+
+Author: 
