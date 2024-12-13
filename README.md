@@ -1,8 +1,18 @@
 # Final Project for Data2060
 
-Python version: 3.12.5
+## CART - Classification and Regression Tree for classification
+
+This is a CART classification project produced by **Team Loading...**.
+
+===========================================================================
+
+The environment: 
+
+Python version: `3.12.5`
 
 Package versions: see `environment.yml`
+
+===========================================================================
 
 Author: 
 Yixuan Wang	yixuan_wang6@brown.edu
