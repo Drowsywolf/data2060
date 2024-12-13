@@ -6,7 +6,7 @@ This is a CART classification project produced by **Team Loading...**.
 
 ===========================================================================
 
-The environment: 
+**The environment:** 
 
 Python version: `3.12.5`
 
@@ -14,7 +14,8 @@ Package versions: see `environment.yml`
 
 ===========================================================================
 
-Author: 
+**Author:**
+
 Yixuan Wang	yixuan_wang6@brown.edu
 
 Zhecheng Zhang	zhecheng_zhang@brown.edu
