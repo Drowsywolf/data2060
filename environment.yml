@@ -273,6 +273,7 @@ dependencies:
   - pip:
       - category-encoders==2.6.4
       - patsy==1.0.1
+      - seaborn==0.13.2
       - statsmodels==0.14.4
       - ucimlrepo==0.0.7
 prefix: /home/fanzhangchi/anaconda3/envs/data2060
